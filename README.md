@@ -1,2 +1,2 @@
 # Design-Patterns
-Some design patterns which i has learned
+Some design patterns which i have learned
